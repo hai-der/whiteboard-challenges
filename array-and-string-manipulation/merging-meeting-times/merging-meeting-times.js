@@ -31,5 +31,4 @@ const meetingTimes = [
   { startTime: 9, endTime: 10 },
 ];
 
-// console.log({ meetingRange });
 console.log(mergeRanges(meetingTimes));
